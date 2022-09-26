@@ -27,8 +27,8 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone or Download the repository
 
 	```
-	$ git clone 
-	$ git clone 
+	$ git clone https://github.com/texas334/chat.git
+	 
 	$ cd SocketIO-Chat-App
 	```
 2. Install Dependencies
