@@ -5,7 +5,7 @@
 ### Socket.IO Real-Time Chat with Auto Reply ### 
    July, 2018 
 
-[ alt]("https://github.com/texas334/chat//public/img/chat-app.PNG")
+<img src="https://github.com/texas334/chat/blob/master/SocketIO-Chat-App/public/img/chat-app.PNG">
    
 ### FEATURING THE FASTEST AND MOST RELIABLE REAL-TIME ENGINE ###
 Real-Time Chat is powered by Socket.IO. is a web application that allows multiple users to have a private and public chat.
