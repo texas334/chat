@@ -29,7 +29,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 	```
 	$ git clone https://github.com/texas334/chat.git
 	 
-	$ cd SocketIO-Chat-App
+	$ cd Chat
 	```
 2. Install Dependencies
 
