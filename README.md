@@ -1,6 +1,6 @@
 # chat
 # chat-app-by-roshan
-## Welcome to Private and Public Chat Socket.IO App by Wilbert Muza ##
+## Welcome to Private and Public Chat Socket.IO App by roshan  ##
 
 ### Socket.IO Real-Time Chat with Auto Reply ### 
    July, 2018 
